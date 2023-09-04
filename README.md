@@ -1,10 +1,9 @@
 
 <h3 align="center">
  <br>
-Olá, eu sou o Renato! 🇧🇷
+Olá, eu sou o Renato!
 <br>
- Estudante de Sistemas de Informação pelo IFNMG - Campuns Januária. <br>
- Focando meus estudos em Ciência de dados & Engenharia de dados. =) 
+ Analista de Dados graduando em Sistemas de Informação. Possuo experiência com Power BI, Python e SQL. Além de experiências acadêmicas na area de machine learning.
 </h3>
 
 <br>
