@@ -3,7 +3,7 @@
  <br>
 Olá, eu sou o Renato!
 <br>
- Analista de Dados graduando em Sistemas de Informação. Possuo experiência com Power BI, Python e SQL. Além de experiências acadêmicas na area de machine learning.
+ Graduando em Sistemas de Informação. Possuo experiência profissional como Analista de Dados, atuei com as ferramentas Power BI, Python e SQL. Tenho também experiências acadêmicas na área de machine learning e com web scraping.
 </h3>
 
 <br>
