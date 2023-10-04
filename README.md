@@ -1,27 +1,29 @@
+# Renato Lopo
 
-<h3 align="center">
- <br>
-Olá, eu sou o Renato!
-<br>
- Graduando em Sistemas de Informação. Possuo experiência profissional como Analista de Dados, atuei com as ferramentas Power BI, Python e SQL. Tenho também experiências acadêmicas na área de machine learning e com web scraping.
-</h3>
+Possui graduação em Bacharel em Sistemas de Informações (2023) pelo Instituto Federal do Norte de Minas Gerais. Tem experiência na área de Análise de dados e Machine learning:
+* Analista de dados jr na empresa TAC Services (2022-2023).
+* Estágio na empresa TAC Services na área de BI (2022-2022).
+* Bolsista IFNMG na área de Machine Learning voltado para área de  linguagem natural (NLP)  (2020-2021).
 
-<br>
 
+**💡 Background in:** Python, SQL, Power BI e Machine Learning.
+
+**📭 Contatos:**
+* renatolopo62@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/renatolopo/)
+
+
+
+## 📝 Artigos:
+* [Análise de conteúdos publicados na rede social Twitter 
+relacionados aos candidatos brasileiros à presidência da 
+república](https://ijaers.com/detail/analysis-of-content-published-on-the-social-network-twitter-related-to-brazilian-candidates-for-the-presidency-of-the-republic/)
+* [MONITOR DE NOTÍCIAS: SISTEMA PARA ANALISAR CONTEÚDOS PUBLICADOS EM SITES DA GRANDE MÍDIA E NA REDE SOCIAL TWITTER NO CONTEXTO BRASILEIRO](https://eventos.ifnmg.edu.br/sic2022/anais/trabalho/102)
+
+  
 ![A GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatolopo&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatolopo&layout=compact&theme=tokyonight)](https://github.com/Renatolopo)
 
 <h4 align="center">
 
-<hr>
-  
-  [![Github Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Montalvaooo)
-  [![Github Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://renatolopo.medium.com/)
-  [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatolopo/)
-  [![Github Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/193062/renato-lopo)
-  [![Github Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/renatolopo)
-  
-</h4>
-
 Abaixo alguns projetos que já desenvolvi.
-
