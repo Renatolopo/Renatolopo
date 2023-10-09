@@ -13,6 +13,35 @@ Possui graduação em Bacharel em Sistemas de Informações (2023) pelo Institut
 * [LinkedIn](https://www.linkedin.com/in/renatolopo/)
 
 
+## 📈 Projetos:
+Alguns projetos que já desenvolvi:
+
+* **Monitor de Notícia:** 
+   Análise de sentimento de dados do Twitter e sites de notícia. [repositório](https://github.com/Renatolopo/MonitorNoticia).
+    
+* **Projeto de análise de sentimentos sobre vacinas da COVID-19:** 
+  Projeto de análise de sentimentos, com o objetivo de identifcar sentimentos em tweets e notícias relacionados as Vacinas da COVID-19. [repositório](https://github.com/Renatolopo/NLP-Vacinas).
+
+* **Inteligência computacional:** 
+  Alguns exercícios da disciplina de Introdução à inteligência computacional (Melhor matéria do curso), [repositório](https://github.com/Renatolopo/Inteligencia-Computacional).
+ 
+* **Sistemas de Apoio à decisão:** 
+  Alguns exercícios da disciplina de Sistemas de Apoio a decisão contendo Análise descritiva, Clusterização, implementação de um classificador e pré-processamento de dados. [repositório](https://github.com/Renatolopo/sistemas-de-apoio-a-decisao).
+ 
+* **Redes Neurais:** 
+  Contém alguns modelos que desenvolvi durante a disciplina  de Redes neurais. [repositório](https://github.com/Renatolopo/Redes-Neurais).
+    
+* **Projetos com Power BI:** 
+  Tenho um repositório específico só para projetos em Power BI, pode acessar [aqui](https://github.com/Renatolopo/Portfolio-Power-BI).
+
+* **Django:** 
+  Site de recomendação de filmes desenvolvido em Django. [repositório](https://github.com/Renatolopo/CineGuia).
+ 
+* **Java:**
+  Sistema de Ordem de serviço feito em java. [repositório](https://github.com/Renatolopo/OrdemDeServico)
+  
+
+
 
 ## 📝 Artigos:
 * [Análise de conteúdos publicados na rede social Twitter 
@@ -26,4 +55,3 @@ república](https://ijaers.com/detail/analysis-of-content-published-on-the-socia
 
 <h4 align="center">
 
-Abaixo alguns projetos que já desenvolvi.
