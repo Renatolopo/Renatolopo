@@ -20,7 +20,7 @@ Alguns projetos que já desenvolvi:
    Análise de sentimento de dados do Twitter e sites de notícia. [repositório](https://github.com/Renatolopo/MonitorNoticia).
     
 * **Projeto de análise de sentimentos sobre vacinas da COVID-19:** 
-  Projeto de análise de sentimentos, com o objetivo de identifcar sentimentos em tweets e notícias relacionados as Vacinas da COVID-19. [repositório](https://github.com/Renatolopo/NLP-Vacinas).
+  Projeto de análise de sentimentos, com o objetivo de identificar sentimentos em tweets e notícias relacionados as Vacinas da COVID-19. [repositório](https://github.com/Renatolopo/NLP-Vacinas).
 
 * **Inteligência computacional:** 
   Alguns exercícios da disciplina de Introdução à inteligência computacional (Melhor matéria do curso), [repositório](https://github.com/Renatolopo/Inteligencia-Computacional).
