@@ -1,9 +1,6 @@
 # Renato Lopo
-
-Graduando em Bacharel em Sistemas de Informações pelo Instituto Federal do Norte de Minas Gerais. Tem experiência na área de Análise de dados e Machine learning:
-* Analista de dados jr na empresa TAC Services (2022-2023).
-* Estágio na empresa TAC Services na área de BI (2022-2022).
-* Bolsista IFNMG na área de Machine Learning voltado para área de  linguagem natural (NLP)  (2020-2021).
+Analista de Dados.
+Bacharel em Sistemas de Informações pelo Instituto Federal do Norte de Minas Gerais.
 
 
 **💡 Background in:** Python, SQL, Power BI e Machine Learning.
