@@ -1,6 +1,6 @@
 # Renato Lopo
-Analista de Dados.
-Bacharel em Sistemas de Informações pelo Instituto Federal do Norte de Minas Gerais.
+- Analista de Dados.
+- Bacharel em Sistemas de Informações pelo Instituto Federal do Norte de Minas Gerais.
 
 
 **💡 Background in:** Python, SQL, Power BI e Machine Learning.
